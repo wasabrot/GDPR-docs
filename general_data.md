@@ -55,7 +55,13 @@ very own key where even we don't have access.
 - Rectify data we have in the "working data" set but not historic data set
 - Opt-out of marketing communication
 
+
+
 ## How do we delete data on the blockchain?
 - We don't because we can't. But that does not matter, because the data is not readable. 
 - Private keys protect your data. If you lose or destroy the keys, it is similar to deleting data. 
 
+## Overview
+Here is an overview which gives you an idea: 
+
+![publish as website](https://docs.google.com/drawings/d/e/2PACX-1vQbN3iJbFG8tzLVVbbawkurtS7ijj85S3pX6Pz_soaNrqpZPc7sHr03eJ28jMbX7pYf5Wns03lsk4wT/pub?w=960&h=720)
