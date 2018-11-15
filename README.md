@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![publish as website](https://docs.google.com/drawings/d/e/2PACX-1vQbN3iJbFG8tzLVVbbawkurtS7ijj85S3pX6Pz_soaNrqpZPc7sHr03eJ28jMbX7pYf5Wns03lsk4wT/pub?w=960&h=720)
+
+
+![other](https://drive.google.com/uc?export=view&id=1nswXgupkTW-0UgFyn3cGUmgsz59AfUq3)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
