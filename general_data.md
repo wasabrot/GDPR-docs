@@ -1,7 +1,7 @@
 # What are we doing with your data?
 
 ## How we use your data
-We only collect data which are needed to fullfill out anti-money-laundering obligations and which help us 
+We only collect data which are needed to fulfill out anti-money-laundering obligations and which help us 
 to improve our platform and our services. Here are the 
 functions and tasks where your data is used: 
 
@@ -14,7 +14,7 @@ functions and tasks where your data is used:
 
 ## Third parties use or store your data
 - KYC Spider (holds the AML lists)
-- Google analytics and cloud infrastucture 
+- Google analytics and cloud infrastructure 
 - Gmail for mail communication
 - Apple or Google might have data if you use their browser or phone devices.
 - uPort and Consensys - they are the provider of uPort. They do not have access to your data nor can read it. 
@@ -34,14 +34,14 @@ Anyhow they might gather information from your internet traffic when downloading
 ## What is stored on the public blockchain?
 - There are no names stored on the blockchain by us 
 - All personal data is encrypted on the blockchain. Data attached to uPort ist encrypted by your 
-very own key where even we dont have access. 
+very own key where even we don't have access. 
 - Other times we use our keys, so nobody else has access. 
-- Transactions are represented by adresses not names. 
+- Transactions are represented by addresses not names. 
 
 
 ## What are attestations?
 - As you get successfully identified, we somehow "stamp your passport"
-- This means that we add an attestion to our identity, which is managed by the [uPort](uport.me) system.
+- This means that we add an attestation to our identity, which is managed by the [uPort](uport.me) system.
 
 
 ## Which data can a third party application (or Dapp) get from us?
@@ -57,8 +57,5 @@ very own key where even we dont have access.
 
 ## How do we delete data on the blockchain?
 - We don't because we can't. But that does not matter, because the data is not readable. 
-- Private keys protect your data. If you loose or destroy the keys, it is similar to deleting data. 
-
-
-
+- Private keys protect your data. If you lose or destroy the keys, it is similar to deleting data. 
 
