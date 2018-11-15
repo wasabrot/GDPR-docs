@@ -62,6 +62,7 @@ very own key where even we don't have access.
 - Private keys protect your data. If you lose or destroy the keys, it is similar to deleting data. 
 
 ## Overview
-Here is an overview which gives you an idea: 
+Here is an overview which gives you an idea. For the sake of simplicity, we did not include the 
+standard technologies like cookies or google analytics. 
 
-![publish as website](https://docs.google.com/drawings/d/e/2PACX-1vQbN3iJbFG8tzLVVbbawkurtS7ijj85S3pX6Pz_soaNrqpZPc7sHr03eJ28jMbX7pYf5Wns03lsk4wT/pub?w=960&h=720)
+![publish as website](https://docs.google.com/drawings/d/e/2PACX-1vQbN3iJbFG8tzLVVbbawkurtS7ijj85S3pX6Pz_soaNrqpZPc7sHr03eJ28jMbX7pYf5Wns03lsk4wT/pub?w=480&h=360)
